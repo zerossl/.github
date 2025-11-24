@@ -1,3 +1,14 @@
+<p align="center">
+	<a href="https://zerossl.com.com">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://zerossl.com/assets/images/zerossl_logo.svg">
+			<source media="(prefers-color-scheme: light)" srcset="https://zerossl.com/assets/images/zerossl_logo.svg">
+			<img src="https://zerossl.com/assets/images/zerossl_logo.svg" alt="ZeroSSL" width="550">
+		</picture>
+	</a>
+</p>
+<br>  
+
 # ZeroSSL Open Source Projects
 > [!NOTE]
 > ZeroSSL actively supports and contributes to the open-source ecosystem by maintaining and integrating tools for SSL/TLS automation.  
@@ -5,18 +16,18 @@ This list includes popular ACME clients and web servers that simplify certificat
 Explore these projects to find solutions for automated HTTPS, containerized environments, and modern web infrastructure.  
 
 **🔑 ACME Clients**  
-* [acme.sh](https://github.com/zerossl/zerossl/blob/master/README.md#acmesh)  
-* [dehydrated](https://github.com/zerossl/.github/blob/main/profile/README.md#dehydrated)  
-* [win-acme](https://github.com/zerossl/.github/blob/main/profile/README.md#win-acme)  
-* [acme-companion](https://github.com/zerossl/.github/blob/main/profile/README.md#acme-companion)  
-* [getssl](https://github.com/zerossl/.github/blob/main/profile/README.md#getssl)  
-* [acmephp](https://github.com/zerossl/.github/blob/main/profile/README.md#acmephp)  
-* [auto-ssl](https://github.com/zerossl/.github/blob/main/profile/README.md#auto-ssl)  
+* [acme.sh](https://github.com/zerossl#acmesh)  
+* [dehydrated](https://github.com/zerossl#dehydrated)  
+* [win-acme](https://github.com/zerossl#win-acme)  
+* [acme-companion](https://github.com#acme-companion)  
+* [getssl](https://github.com/zerossl#getssl)  
+* [acmephp](https://github.com/zerossl#acmephp)  
+* [auto-ssl](https://github.com/zerossl#auto-ssl)  
   
 **🌐 Webserver**  
-* [Caddy Server](https://github.com/zerossl/.github/blob/main/profile/README.md#caddy-server)  
-* [nginx-proxy](https://github.com/zerossl/.github/blob/main/profile/README.md#nginx-proxy)  
-* [Ponzu CMS](https://github.com/zerossl/.github/blob/main/profile/README.md#ponzu-cms)  
+* [Caddy Server](https://github.com/zerossl#caddy-server)
+* [nginx-proxy](https://github.com/zerossl#nginx-proxy)
+* [Ponzu CMS](https://github.com/zerossl#ponzu-cms)  
 
   ---
     
