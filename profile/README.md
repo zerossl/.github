@@ -1,7 +1,7 @@
 <p align="center">
 	<a href="https://zerossl.com.com">
 		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="https://zerossl.com/assets/images/zerossl_logo.svg">
+			<source media="(prefers-color-scheme: dark)" srcset="https://zerossl.com/assets/images/zerossl_logo_white.svg">
 			<source media="(prefers-color-scheme: light)" srcset="https://zerossl.com/assets/images/zerossl_logo.svg">
 			<img src="https://zerossl.com/assets/images/zerossl_logo.svg" alt="ZeroSSL" width="550">
 		</picture>
