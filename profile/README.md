@@ -1,13 +1,22 @@
 <p align="center">
-	<a href="https://zerossl.com.com">
-		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="https://zerossl.com/assets/images/zerossl_logo_white.svg">
-			<source media="(prefers-color-scheme: light)" srcset="https://zerossl.com/assets/images/zerossl_logo.svg">
-			<img src="https://zerossl.com/assets/images/zerossl_logo.svg" alt="ZeroSSL" width="550">
-		</picture>
-	</a>
+<picture>
+  <!-- Dark mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://zerossl.com/assets/images/zerossl_logo.svg_white" />
+  <!-- Light mode -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://zerossl.com/assets/images/zerossl_logo.svg" />
+  <!-- Fallback for environments without media queries -->
+  <img
+    alt="ZeroSSL"
+    src="https://example.com/logo-light.svg"
+    width="550"
+    height="auto" />
+</picture>
 </p>
-<br>  
+<br>  	
 
 # ZeroSSL Open Source Projects
 > [!NOTE]
