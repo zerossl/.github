@@ -3,7 +3,7 @@
   <!-- Dark mode -->
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://zerossl.com/assets/images/zerossl_logo.svg_white" />
+    srcset="https://zerossl.com/assets/images/zerossl_logo_white.svg" />
   <!-- Light mode -->
   <source
     media="(prefers-color-scheme: light)"
@@ -11,7 +11,7 @@
   <!-- Fallback for environments without media queries -->
   <img
     alt="ZeroSSL"
-    src="https://example.com/logo-light.svg"
+    src="https://zerossl.com/assets/images/zerossl_logo.svg"
     width="550"
     height="auto" />
 </picture>
