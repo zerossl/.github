@@ -28,7 +28,8 @@ Explore these projects to find solutions for automated HTTPS, containerized envi
 * [acme.sh](https://github.com/zerossl#acmesh)  
 * [dehydrated](https://github.com/zerossl#dehydrated)  
 * [win-acme](https://github.com/zerossl#win-acme)  
-* [acme-companion](https://github.com#acme-companion)  
+* [acme-companion](https://github.com#acme-companion)
+* [certmagic](https://github.com#certmagic)
 * [getssl](https://github.com/zerossl#getssl)  
 * [acmephp](https://github.com/zerossl#acmephp)  
 * [auto-ssl](https://github.com/zerossl#auto-ssl)  
@@ -58,13 +59,23 @@ Explore these projects to find solutions for automated HTTPS, containerized envi
 | ⭐ Stars        | 6k       |
 | 📅 Established  | 2015     |
   
-## win-acme  
+## CertMagic  
 ![](https://img.shields.io/badge/Project%20Status-Active-brightgreen)   
-[win-acme](https://github.com/win-acme/win-acme) is a Windows ACME client for SSL/TLS certificates.  
+[certmagic](https://github.com/caddyserver/certmagic) is a powerful and easy to use Go library for SSL/TLS certificate automation.  
 | | |
 |-----------------|---------:|
-| ⭐ Stars        | 6k       |
+| ⭐ Stars        | 5k       |
 | 📅 Established  | 2016     |
+
+## acme-companion  
+![](https://img.shields.io/badge/Project%20Status-Active-brightgreen)   
+[acme-companion](https://github.com/nginx-proxy/acme-companion) works alongside nginx-proxy to automate SSL/TLS certificate issuance and renewal via ACME.  
+| | |
+|-----------------|---------:|
+| ⭐ Stars        | 7k       |
+| 📅 Established  | 2016     |
+
+https://github.com/caddyserver/certmagic
   
 ## acme-companion  
 ![](https://img.shields.io/badge/Project%20Status-Active-brightgreen)   
