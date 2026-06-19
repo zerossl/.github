@@ -25,19 +25,19 @@ This list includes popular ACME clients and web servers that simplify certificat
 Explore these projects to find solutions for automated HTTPS, containerized environments, and modern web infrastructure.  
 
 **🔑 ACME Clients**  
-* [acme.sh](https://github.com/zerossl#acmesh)  
-* [dehydrated](https://github.com/zerossl#dehydrated)  
-* [win-acme](https://github.com/zerossl#win-acme)  
-* [acme-companion](https://github.com/zerossl#acme-companion)
-* [certmagic](https://github.com/zerossl#certmagic)
-* [getssl](https://github.com/zerossl#getssl)  
-* [acmephp](https://github.com/zerossl#acmephp)  
-* [auto-ssl](https://github.com/zerossl#auto-ssl)  
+* 🟢 [acme.sh](https://github.com/zerossl#acmesh)  
+* 🟢 [dehydrated](https://github.com/zerossl#dehydrated)  
+* 🟢 [win-acme](https://github.com/zerossl#win-acme)  
+* 🟢 [acme-companion](https://github.com/zerossl#acme-companion)
+* 🟢 [certmagic](https://github.com/zerossl#certmagic)
+* 🟢 [getssl](https://github.com/zerossl#getssl)  
+* 🔴 [acmephp](https://github.com/zerossl#acmephp)  
+* 🔴 [auto-ssl](https://github.com/zerossl#auto-ssl)  
   
 **🌐 Webserver**  
-* [Caddy Server](https://github.com/zerossl#caddy-server)
-* [nginx-proxy](https://github.com/zerossl#nginx-proxy)
-* [Ponzu CMS](https://github.com/zerossl#ponzu-cms)  
+* 🟢 [Caddy Server](https://github.com/zerossl#caddy-server)  
+* 🟢 [nginx-proxy](https://github.com/zerossl#nginx-proxy)  
+* 🔴 [Ponzu CMS](https://github.com/zerossl#ponzu-cms)  
 
   ---
     
@@ -77,13 +77,14 @@ Explore these projects to find solutions for automated HTTPS, containerized envi
 
 https://github.com/caddyserver/certmagic
   
-## acme-companion  
+## win-acme  
 ![](https://img.shields.io/badge/Project%20Status-Active-brightgreen)   
-[acme-companion](https://github.com/nginx-proxy/acme-companion) works alongside nginx-proxy to automate SSL/TLS certificate issuance and renewal via ACME.  
+[win-acme]([https://github.com/nginx-proxy/acme-companion](https://github.com/win-acme/win-acme)) About
+Automate SSL/TLS certificates on Windows with ease. 
 | | |
 |-----------------|---------:|
-| ⭐ Stars        | 7k       |
-| 📅 Established  | 2016     |
+| ⭐ Stars        | 5.7k     |
+| 📅 Established  | 2015     |
   
 ## getssl  
 ![](https://img.shields.io/badge/Project%20Status-Outdated-lightgrey)  
