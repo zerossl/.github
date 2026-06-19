@@ -87,7 +87,7 @@ Automate SSL/TLS certificates on Windows with ease.
 | 📅 Established  | 2015     |
   
 ## getssl  
-![](https://img.shields.io/badge/Project%20Status-Outdated-lightgrey)  
+![](https://img.shields.io/badge/Project%20Status-Active-brightgreen)  
 [getssl](https://github.com/srvrco/getssl) provides lightweight server orchestration and SSL/TLS automation for containerized environments.  
 | | |
 |-----------------|---------:|
